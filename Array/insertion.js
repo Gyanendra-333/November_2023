@@ -12,3 +12,7 @@ for (let i = data.length - 1; i >= 0; i--) {
     }
 }
 console.log(data);
+
+// Pre Defined mthod for insert new elemnet 
+data.splice(1, 0, 800);
+console.log(data);
