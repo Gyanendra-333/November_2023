@@ -25,7 +25,6 @@ var n = 6;
 // To print original array 
 printArray(arr, n);
 
-// Function calling 
 rvereseArray(arr, 0, n - 1);
 
 console.log("Reversed array is");
