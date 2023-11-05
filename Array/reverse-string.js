@@ -21,6 +21,7 @@ function printArray(arr, size) {
 
 var arr = [1, 2, 3, 4, 5, 6];
 var n = 6;
+
 // To print original array 
 printArray(arr, n);
 
