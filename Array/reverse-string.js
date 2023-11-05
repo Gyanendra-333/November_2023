@@ -12,7 +12,6 @@ function rvereseArray(arr, start, end) {
     }
 }
 
-/* Utility function to print an array */
 function printArray(arr, size) {
     for (var i = 0; i < size; i++) {
         console.log(arr[i]);
