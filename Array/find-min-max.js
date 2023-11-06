@@ -18,4 +18,4 @@ function findMinMax(arr) {
 }
 const arr = [1, 423, 6, 46, 34, 23, 13, 53, 4];
 const { min, max } = findMinMax(arr);
-console.log(`min - $(min)  max - ${max}`); 
+console.log(`min - ${min}  max - ${max}`); 
