@@ -1,6 +1,7 @@
 // JavaScript code for the approach
 
 // Function to find minimum and maximum values in an array
+
 function findMinMax(arr) {
     let min = arr[0];
     let max = arr[0];
