@@ -14,7 +14,6 @@ function findMinMax(arr) {
             max = arr[i];
         }
     }
-
     return { min, max };
 }
 
