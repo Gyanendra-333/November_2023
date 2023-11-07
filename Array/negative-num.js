@@ -1,5 +1,3 @@
-
-
 // JavaScript Code for the same approach
 
 function move(arr) {
