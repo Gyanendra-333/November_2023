@@ -11,6 +11,5 @@ move(arr);
 for (let e of arr)
     console.log(e, " ");
 
-// This code is contributed by shinjanpatra 
 
 
