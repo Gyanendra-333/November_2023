@@ -1,4 +1,3 @@
-
 // A JavaScript program to find a peak element
 
 // Find the peak element in the array 
