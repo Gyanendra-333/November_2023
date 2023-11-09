@@ -1,8 +1,9 @@
 
-// Javascript program to sort an array of 0, 1 and 2 
+// Javascript program to sort an array of 0, 1 and 2
 
-// Sort the input array, the array is assumed to 
+// Sort the input array, the array is assumed to
 // have values in {0, 1, 2} 
+
 function sort012(a, arr_size) {
 
 	let lo = 0;
