@@ -39,7 +39,7 @@ function sort012(a, arr_size) {
 function printArray(arr, arr_size) {
 	let i;
 	for (i = 0; i < arr_size; i++) {
-		document.write(arr[i] + " ");
+		console.log(arr[i] + " ");
 	}
 }
 
