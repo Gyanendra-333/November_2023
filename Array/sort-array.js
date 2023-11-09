@@ -41,7 +41,6 @@ function printArray(arr, arr_size) {
 	for (i = 0; i < arr_size; i++) {
 		document.write(arr[i] + " ");
 	}
-	document.write("<br>");
 }
 
 let arr = [0, 1, 1, 0, 1, 2, 1, 2, 0, 0, 0, 1];
