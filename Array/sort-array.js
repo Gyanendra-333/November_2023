@@ -44,7 +44,6 @@ function printArray(arr, arr_size) {
 	document.write("<br>");
 }
 
-/*Driver function to check for above functions*/
 let arr = [0, 1, 1, 0, 1, 2, 1, 2, 0, 0, 0, 1];
 
 let arr_size = arr.length;
