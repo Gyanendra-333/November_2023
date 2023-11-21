@@ -6,7 +6,6 @@ function kthSmallest(arr, N, K) {
     // Sort the given array
     arr.sort((a, b) => a - b);
 
-    // Return k'th element in the sorted array
     return arr[K - 1];
 }
 
