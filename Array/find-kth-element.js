@@ -12,5 +12,5 @@ function kthSmallest(arr, N, K) {
 // Driver program to test above methods
 let arr = [12, 3, 5, 7, 19];
 let N = arr.length, K = 2;
-document.write("K'th smallest element is " + kthSmallest(arr, N, K));
+console.log("K'th smallest element is " + kthSmallest(arr, N, K));
 
