@@ -11,4 +11,3 @@ function kthSmallest(arr, N, K) {
 let arr = [12, 3, 5, 7, 19];
 let N = arr.length, K = 2;
 console.log("K'th smallest element is " + kthSmallest(arr, N, K));
-
